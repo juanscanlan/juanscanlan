@@ -1,4 +1,4 @@
-### Hello, I'm Juan Scanlan 👋
+### Hello, I'm Juan Scanlan 👋 :ocean:
 
 I was born in Cozumel, Mexico. The most eastern island off the coast of Mexico.
 In 2020, I graduated with Honors from the University of Bristol in Mechanical Engineering. 
