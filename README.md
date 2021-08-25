@@ -4,7 +4,7 @@ I was born in Cozumel, Mexico. The most eastern island off the coast of Mexico.
 In 2020, I graduated with Honors from the University of Bristol in Mechanical Engineering. 
 Now I develop software and make Machine Leaning models as a hobby.
 
-## Examples of work:
+## Web Development:
 <img align="left" alt="scubajuan" width="260px" style="margin-top: -2000px" src="ScubaJuanSite.jpg" />
 
 ### <a href="https://scubajuan.com/">ScubaJuan.com</a> | <a href="https://github.com/juanscanlan/scubajuan">Repository</a>
