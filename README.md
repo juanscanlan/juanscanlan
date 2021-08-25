@@ -7,7 +7,7 @@ Now I develop software and make Machine Leaning models as a hobby.
 ## Examples of work:
 <img align="left" alt="scubajuan" width="260px" style="margin-top: -2000px" src="ScubaJuanSite.jpg" />
 
-### <a href="https://scubajuan.com/">ScubaJuan.com</a>
+### <a href="https://github.com/juanscanlan/scubajuan">ScubaJuan.com</a>
 
 ## Languages and Tools used:
   <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
